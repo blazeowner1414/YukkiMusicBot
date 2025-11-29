@@ -1,0 +1,5 @@
+{
+  "name": "YukkiMusicBot",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "postCreateCommand": "pip install -U pip && pip install -r requirements.txt"
+}
